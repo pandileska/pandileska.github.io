@@ -95,7 +95,7 @@
 @media (min-width: 1200px) {
     .index-main-content {
         padding: 64px 32px;
-        margin: 64px 0;
+        margin: 64px auto;
     }
 
     .index-main-content .left,
