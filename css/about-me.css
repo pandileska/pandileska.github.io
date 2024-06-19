@@ -1,0 +1,30 @@
+.main-content p {
+    margin-bottom: 32px;
+}
+
+.main-content .orange {
+    background-color: #FF451B;
+    border-radius: 10px;
+    padding: 32px;
+    margin-top: 32px;
+}
+
+.orange > div {
+    border-bottom: 1px dashed #FFFFFF;
+    padding:8px 0;
+}
+
+.orange span {
+    display: block;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.orange label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.orange>div:last-child {
+    border-bottom: none;
+}
